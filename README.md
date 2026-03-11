@@ -36,6 +36,15 @@ I am passionate about sharing knowledge and creating tools that improve develope
 
 ---
 
+### 🏢 Open Source Initiatives & Organizations
+I lead and maintain specialized organizations focused on providing production-ready boilerplate and architecture standards across different ecosystems:
+
+* **[Golang Templates](https://github.com/ortiz-golang-templates):** 🐹 Enterprise-level Go templates including gRPC, WebSockets, and MessagePack implementations.
+* **[Dotnet Templates](https://github.com/ortiz-dotnet-templates):** ⚡ High-performance .NET templates featuring CQRS, NATS, Redis, and SOAP-to-REST transitions.
+* **[Python Templates](https://github.com/ortiz-python-templates):** 🐍 Modern Python backends with a focus on MongoDB integration, gRPC, and clean naming standards.
+
+---
+
 ### 🌐 Beyond Code
 * **Leadership:** Focused on healthy Tech Lead behaviors, mentoring, and team growth.
 * **Technical Writing:** I share insights on [Medium](https://medium.com/@ortizaad1994) and [Dev.to](https://dev.to/ortizdavid).
