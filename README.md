@@ -24,6 +24,7 @@ I am passionate about sharing knowledge and creating tools that improve develope
 | [**backend-project-structure**](https://github.com/ortizdavid/backend-project-structure) | A blueprint for scalable Go applications. | 🏆 87+ Stars |
 | [**golang-modular-software**](https://github.com/ortizdavid/golang-modular-software) | Complex modular architecture implementation in Go. | 💎 51+ Stars |
 | [**go-nopain**](https://github.com/ortizdavid/go-nopain) | A productivity library to simplify Go development. | ⚡ 49+ Stars |
+| [**golang-pocs**](https://github.com/ortizdavid/golang-pocs) | **Research & Development (R&D)**: Proof of concepts for Go features. | 🧪 **22+ Stars** |
 | [**go-signer-core**](https://github.com/ortizdavid/go-signer-core) | Mission-critical engine for XML Digital Signatures (Sefaz/BNA standards). | 🔒 Security Focused |
 | [**Dotnet_Templates**](https://github.com/ortizdavid/Dotnet_Templates) | Enterprise-grade templates for ASP.NET Core (REST, CQRS, RabbitMQ). | 🏗️ Architecture |
 
@@ -38,7 +39,7 @@ I am passionate about sharing knowledge and creating tools that improve develope
 ### 🌐 Beyond Code
 * **Leadership:** Focused on healthy Tech Lead behaviors, mentoring, and team growth.
 * **Technical Writing:** I share insights on [Medium](https://medium.com/@ortizaad1994) and [Dev.to](https://dev.to/ortizdavid).
-* **Location:** Based in Luanda, Angola 🇦🇴 (Specializing in Remote Work for Brazil and Europe 🌍).
+* **Location:** Based in Luanda, Angola 🇦🇴 (Specializing in Remote Work for Brazil 🌍).
 
 ---
 
