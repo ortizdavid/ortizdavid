@@ -36,6 +36,12 @@ I am passionate about sharing knowledge and creating tools that improve develope
 
 ---
 
+---
+
+### 🎓 Education & Mentorship
+* **[Logica_de_Programacao_CSharp](https://github.com/ortizdavid/Logica_de_Programacao_CSharp):** A comprehensive collection of logic exercises based on academic literature. This repository serves as a foundational guide for beginners, with **14+ stars** and a focus on clear, functional problem-solving.
+
+
 ### 🏢 Open Source Initiatives & Organizations
 I lead and maintain specialized organizations focused on providing production-ready boilerplate and architecture standards across different ecosystems:
 
