@@ -1,17 +1,32 @@
-# Hi, I'm Ortiz David 👋
-### Senior Software Engineer | Go Specialist | Software Architect
 
-I design and implement scalable, mission-critical backend systems. With a solid track record in **Fintech and Banking Compliance**, I specialize in transforming complex business requirements (like BNA standards) into high-performance modular architectures.
+# Hi, I'm Ortiz David 👋
+### Backend Systems Specialist | Software Architect | Go Expert
+
+I am a **Senior Software Engineer with over 7 years of experience** designing and implementing scalable, mission-critical backend systems. I specialize in transforming complex business requirements — from **Fintech and Banking Compliance (BNA standards)** to high-performance modular architectures — into robust corporate applications using **Go, Python, and .NET**.
+
+My focus is on building software that delivers tangible business results through **Clean Architecture, CQRS patterns**, and a deep commitment to **Data Integrity** and the pillars of **Observability** (Logging, Tracing, and Monitoring).
 
 ---
 
-### 🚀 Core Expertise
+### 🚀 Core Expertise & Stack
 
-* **Specialized Backend:** Expert in **Go (Golang)** for high-concurrency systems and **.NET (C#)** for enterprise solutions.
-* **Architecture & Patterns:** Clean Architecture, SOLID, DDD, and Hexagonal Design. I focus on building software that is easy to maintain and scale.
+* **Specialized Backend:** Expert in **Go (Golang)** for high-concurrency systems, **.NET** for enterprise-grade solutions, and **Python** for modern backends.
+* **Architecture & Modeling:** Clean Architecture, SOLID, DDD, and Hexagonal Design. Proficiency in **C4 Model, UML, and BPMN** for strategic system design.
+* **Database & Data Integrity:** Advanced SQL (**PostgreSQL, MySQL**) with a focus on **Schema Mastery (Atlas)**, **Integrity Hashing**, and **Automated Audit Logs**. Experience in NoSQL (**MongoDB, Redis**).
 * **Financial Compliance:** Deep experience with **Banking Standards (BNA)**, including XML Digital Signatures, gRPC protocols, and automated financial reporting.
-* **DevOps & Infrastructure:** Docker, Docker Compose, Kubernetes, and CI/CD pipelines.
-* **Databases:** Advanced SQL (PostgreSQL, SQLite) and NoSQL (MongoDB, Redis).
+* **Messaging & Distributed Patterns:** Implementation of asynchronous messaging and resilience patterns such as **Transactional Outbox** and **Circuit Breakers**.
+* **Infrastructure & DevOps:** Proficient in **Docker & Docker Compose**, Cloud Storage (**MinIO**), and **CI/CD pipeline** automation.
+
+---
+
+### 🏗️ Commercial Assets & Strategic Projects
+
+| Project | Description | Status |
+| :--- | :--- | :--- |
+| [**Go Enterprise Micro**](https://ortizdavid.github.io/go-enterprise-micro-site/) | **Industrial-Grade Chassis** for microservices (CQRS + Outbox Pattern). | 💎 **Commercial** |
+| **Fixed Asset Management** | Enterprise system for automated tracking, depreciation, and audit of corporate assets. | ⚙️ **Production** |
+| **Performance Evaluation** | Advanced HR platform for competency mapping, 360° feedback, and KPI tracking. | 📊 **Production** |
+
 
 ---
 
