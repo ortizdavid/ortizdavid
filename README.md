@@ -23,7 +23,7 @@ My focus is on building software that delivers tangible business results through
 
 | Project | Description | Status |
 | :--- | :--- | :--- |
-| [**Go Enterprise Micro**](https://ortizdavid.github.io/go-enterprise-micro-site/){:target="_blank"} | **Industrial-Grade Chassis** for microservices (CQRS + Outbox Pattern). | 💎 **Commercial** |
+| [**Go Enterprise Micro**](https://ortizdavid.github.io/go-enterprise-micro-site/) | **Industrial-Grade Chassis** for microservices (CQRS + Outbox Pattern). | 💎 **Commercial** |
 | **Fixed Asset Management** | Enterprise system for automated tracking, depreciation, and audit of corporate assets. | ⚙️ **Production** |
 | **Performance Evaluation** | Advanced HR platform for competency mapping, 360° feedback, and KPI tracking. | 📊 **Production** |
 
