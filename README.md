@@ -2,7 +2,7 @@
 # Hi, I'm Ortiz David 👋
 ### Backend Systems Specialist | Software Architect | Go Expert
 
-I am a **Senior Software Engineer with over 7 years of experience** designing and implementing scalable, mission-critical backend systems. I specialize in transforming complex business requirements — from **Fintech and Banking Compliance (BNA standards)** to high-performance modular architectures — into robust corporate applications using **Go, Python, and .NET**.
+I am a **Senior Software Engineer with over 7 years of experience** designing and implementing scalable, mission-critical backend systems. I specialize in transforming complex business requirements — from **Fintech and Banking Compliance (BNA standards)** to high-performance modular architectures — into robust corporate applications using **Go, PHP, Python, and .NET**.
 
 My focus is on building software that delivers tangible business results through **Clean Architecture, CQRS patterns**, and a deep commitment to **Data Integrity** and the pillars of **Observability** (Logging, Tracing, and Monitoring).
 
@@ -40,8 +40,7 @@ I am passionate about sharing knowledge and creating tools that improve develope
 | [**golang-modular-software**](https://github.com/ortizdavid/golang-modular-software) | Complex modular architecture implementation in Go. | 💎 51+ Stars |
 | [**go-nopain**](https://github.com/ortizdavid/go-nopain) | A productivity library to simplify Go development. | ⚡ 49+ Stars |
 | [**golang-pocs**](https://github.com/ortizdavid/golang-pocs) | **Research & Development (R&D)**: Proof of concepts for Go features. | 🧪 **22+ Stars** |
-| [**go-signer-core**](https://github.com/ortizdavid/go-signer-core) | Mission-critical engine for XML Digital Signatures (Sefaz/BNA standards). | 🔒 Security Focused |
-| [**Dotnet_Templates**](https://github.com/ortizdavid/Dotnet_Templates) | Enterprise-grade templates for ASP.NET Core (REST, CQRS, RabbitMQ). | 🏗️ Architecture |
+
 
 ---
 
@@ -60,6 +59,8 @@ I am passionate about sharing knowledge and creating tools that improve develope
 ### 🏢 Open Source Initiatives & Organizations
 I lead and maintain specialized organizations focused on providing production-ready boilerplate and architecture standards across different ecosystems:
 
+* **[Lite-Table](https://github.com/Lite-Table):** ⚡ High-performance, zero-boilerplate database access toolkit with clean SQL and native maps across PHP, Go, .NET, and Python.
+* **[VeloxRouter](https://github.com/VeloxRouter):** 🚀 Lightning-fast, minimalist HTTP routing engine for PHP 8.2+ featuring zero dependencies, regex matching, and an onion-style middleware pipeline.
 * **[Golang Templates](https://github.com/ortiz-golang-templates):** 🐹 Enterprise-level Go templates including gRPC, WebSockets, and MessagePack implementations.
 * **[Dotnet Templates](https://github.com/ortiz-dotnet-templates):** ⚡ High-performance .NET templates featuring CQRS, NATS, Redis, and SOAP-to-REST transitions.
 * **[Python Templates](https://github.com/ortiz-python-templates):** 🐍 Modern Python backends with a focus on MongoDB integration, gRPC, and clean naming standards.
