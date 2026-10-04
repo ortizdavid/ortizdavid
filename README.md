@@ -1,6 +1,6 @@
 
 # Hi, I'm Ortiz David 👋
-### Backend Systems Specialist | Software Architect | Go Expert
+### Backend Systems Specialist | Software Architect
 
 I am a **Senior Software Engineer with over 7 years of experience** designing and implementing scalable, mission-critical backend systems. I specialize in transforming complex business requirements — from **Fintech and Banking Compliance (BNA standards)** to high-performance modular architectures — into robust corporate applications using **Go, PHP, Python, and .NET**.
 
