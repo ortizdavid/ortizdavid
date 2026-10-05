@@ -30,6 +30,18 @@ My focus is on building software that delivers tangible business results through
 
 ---
 
+
+### 🏢 Open Source Initiatives & Organizations
+I lead and maintain specialized organizations focused on providing production-ready boilerplate and architecture standards across different ecosystems:
+
+* **[Lite-Table](https://github.com/Lite-Table):** ⚡ High-performance, zero-boilerplate database access toolkit with clean SQL and native maps across PHP, Go, .NET, and Python.
+* **[VeloxRouter](https://github.com/VeloxRouter):** 🚀 Lightning-fast, minimalist HTTP routing engine for PHP 8.2+ featuring zero dependencies, regex matching, and an onion-style middleware pipeline.
+* **[Golang Templates](https://github.com/ortiz-golang-templates):** 🐹 Enterprise-level Go templates including gRPC, WebSockets, and MessagePack implementations.
+* **[Dotnet Templates](https://github.com/ortiz-dotnet-templates):** ⚡ High-performance .NET templates featuring CQRS, NATS, Redis, and SOAP-to-REST transitions.
+* **[Python Templates](https://github.com/ortiz-python-templates):** 🐍 Modern Python backends with a focus on MongoDB integration, gRPC, and clean naming standards.
+
+---
+
 ### 🛠️ Key Open Source Projects & Contributions
 
 I am passionate about sharing knowledge and creating tools that improve developer productivity.
@@ -54,16 +66,6 @@ I am passionate about sharing knowledge and creating tools that improve develope
 
 ### 🎓 Education & Mentorship
 * **[Logica_de_Programacao_CSharp](https://github.com/ortizdavid/Logica_de_Programacao_CSharp):** A comprehensive collection of logic exercises based on academic literature. This repository serves as a foundational guide for beginners, with **14+ stars** and a focus on clear, functional problem-solving.
-
-
-### 🏢 Open Source Initiatives & Organizations
-I lead and maintain specialized organizations focused on providing production-ready boilerplate and architecture standards across different ecosystems:
-
-* **[Lite-Table](https://github.com/Lite-Table):** ⚡ High-performance, zero-boilerplate database access toolkit with clean SQL and native maps across PHP, Go, .NET, and Python.
-* **[VeloxRouter](https://github.com/VeloxRouter):** 🚀 Lightning-fast, minimalist HTTP routing engine for PHP 8.2+ featuring zero dependencies, regex matching, and an onion-style middleware pipeline.
-* **[Golang Templates](https://github.com/ortiz-golang-templates):** 🐹 Enterprise-level Go templates including gRPC, WebSockets, and MessagePack implementations.
-* **[Dotnet Templates](https://github.com/ortiz-dotnet-templates):** ⚡ High-performance .NET templates featuring CQRS, NATS, Redis, and SOAP-to-REST transitions.
-* **[Python Templates](https://github.com/ortiz-python-templates):** 🐍 Modern Python backends with a focus on MongoDB integration, gRPC, and clean naming standards.
 
 ---
 
